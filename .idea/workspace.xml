@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d8b78984-71ff-4dbd-9f2b-b400a373d416" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/BinaryTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTree.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTree.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test-library.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test/test-library.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/.idea/homework_2MI0400138.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/3.27.9/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/3.27.9/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/3.27.9/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/3.27.9/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/3.27.9/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/3.27.9/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/3.27.9/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/3.27.9/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/3.27.9/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Continuous.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Continuous.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Continuous.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Continuous.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Continuous.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Continuous.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousBuild.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousBuild.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousBuild.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousBuild.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousBuild.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousBuild.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousConfigure.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousConfigure.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousConfigure.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousConfigure.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousConfigure.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousConfigure.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousCoverage.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousCoverage.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousCoverage.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousCoverage.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousCoverage.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousCoverage.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousMemCheck.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousMemCheck.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousMemCheck.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousMemCheck.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousMemCheck.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousMemCheck.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousStart.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousStart.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousStart.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousStart.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousStart.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousStart.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousSubmit.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousSubmit.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousSubmit.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousSubmit.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousSubmit.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousSubmit.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousTest.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousTest.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousTest.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousTest.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousTest.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousTest.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousUpdate.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousUpdate.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousUpdate.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousUpdate.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousUpdate.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ContinuousUpdate.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Experimental.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Experimental.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Experimental.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Experimental.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Experimental.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Experimental.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalBuild.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalBuild.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalBuild.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalBuild.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalBuild.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalBuild.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalConfigure.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalConfigure.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalConfigure.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalConfigure.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalConfigure.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalConfigure.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalCoverage.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalCoverage.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalCoverage.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalCoverage.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalCoverage.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalCoverage.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalMemCheck.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalMemCheck.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalMemCheck.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalMemCheck.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalMemCheck.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalMemCheck.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalStart.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalStart.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalStart.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalStart.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalStart.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalStart.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalSubmit.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalSubmit.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalSubmit.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalSubmit.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalSubmit.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalSubmit.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalTest.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalTest.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalTest.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalTest.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalTest.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalTest.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalUpdate.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalUpdate.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalUpdate.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalUpdate.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalUpdate.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/ExperimentalUpdate.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Nightly.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Nightly.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Nightly.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Nightly.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Nightly.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/Nightly.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyBuild.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyBuild.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyBuild.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyBuild.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyBuild.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyBuild.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyConfigure.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyConfigure.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyConfigure.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyConfigure.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyConfigure.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyConfigure.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyCoverage.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyCoverage.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyCoverage.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyCoverage.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyCoverage.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyCoverage.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyMemCheck.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyMemCheck.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyMemCheck.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyMemCheck.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyMemCheck.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyMemCheck.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyMemoryCheck.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyMemoryCheck.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyMemoryCheck.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyMemoryCheck.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyMemoryCheck.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyMemoryCheck.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyStart.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyStart.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyStart.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyStart.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyStart.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyStart.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlySubmit.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlySubmit.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlySubmit.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlySubmit.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlySubmit.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlySubmit.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyTest.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyTest.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyTest.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyTest.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyTest.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyTest.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyUpdate.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyUpdate.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyUpdate.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyUpdate.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyUpdate.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/NightlyUpdate.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/pkgRedirects/catch2-config-version.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/pkgRedirects/catch2-config.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/DartConfiguration.tcl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/Testing/Temporary/CTestCostData.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/generated-includes/catch2/catch_user_config.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/catch_chronometer.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/catch_chronometer.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_benchmark_function.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_benchmark_function.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_run_for_at_least.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_run_for_at_least.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_stats.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/benchmark/detail/catch_stats.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_approx.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_approx.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_assertion_result.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_assertion_result.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_config.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_config.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_get_random_seed.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_get_random_seed.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_message.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_message.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_registry_hub.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_registry_hub.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_session.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_session.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_tag_alias_autoregistrar.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_tag_alias_autoregistrar.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_test_case_info.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_test_case_info.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_test_spec.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_test_spec.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_timer.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_timer.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_tostring.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_tostring.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_totals.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_totals.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_translate_exception.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_translate_exception.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_version.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/catch_version.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generator_exception.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generator_exception.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generators.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generators.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generators_random.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/generators/catch_generators_random.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_capture.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_capture.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_config.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_config.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_exception.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_exception.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_generatortracker.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_generatortracker.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_registry_hub.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_registry_hub.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter_factory.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_reporter_factory.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_testcase.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/interfaces/catch_interfaces_testcase.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_assertion_handler.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_assertion_handler.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_case_insensitive_comparisons.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_case_insensitive_comparisons.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_clara.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_clara.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_commandline.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_commandline.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_console_colour.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_console_colour.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_context.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_context.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_debug_console.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_debug_console.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_debugger.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_debugger.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_decomposer.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_decomposer.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_enforce.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_enforce.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_enum_values_registry.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_enum_values_registry.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_errno_guard.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_errno_guard.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_exception_translator_registry.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_exception_translator_registry.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_fatal_condition_handler.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_fatal_condition_handler.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_floating_point_helpers.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_floating_point_helpers.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_getenv.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_getenv.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_istream.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_istream.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_lazy_expr.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_lazy_expr.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_leak_detector.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_leak_detector.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_list.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_list.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_message_info.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_message_info.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_output_redirect.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_output_redirect.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_parse_numbers.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_parse_numbers.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_polyfills.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_polyfills.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_random_number_generator.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_random_number_generator.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_random_seed_generation.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_random_seed_generation.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_registry.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_registry.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_spec_parser.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reporter_spec_parser.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_result_type.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_result_type.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reusable_string_stream.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_reusable_string_stream.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_run_context.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_run_context.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_section.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_section.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_singletons.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_singletons.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_source_line_info.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_source_line_info.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_startup_exception_registry.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_startup_exception_registry.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stdstreams.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stdstreams.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_string_manip.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_string_manip.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stringref.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_stringref.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_tag_alias_registry.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_tag_alias_registry.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_info_hasher.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_info_hasher.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_registry_impl.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_registry_impl.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_tracker.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_case_tracker.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_failure_exception.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_failure_exception.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_registry.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_registry.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_spec_parser.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_test_spec_parser.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_textflow.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_textflow.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_uncaught_exceptions.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_uncaught_exceptions.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_wildcard_pattern.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_wildcard_pattern.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_xmlwriter.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/internal/catch_xmlwriter.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_container_properties.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_container_properties.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_exception.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_exception.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_floating_point.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_floating_point.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_predicate.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_predicate.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_quantifiers.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_quantifiers.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_string.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_string.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_templated.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/catch_matchers_templated.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/internal/catch_matchers_impl.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/matchers/internal/catch_matchers_impl.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_automake.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_automake.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_common_base.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_common_base.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_compact.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_compact.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_console.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_console.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_cumulative_base.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_cumulative_base.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_event_listener.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_event_listener.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_helpers.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_helpers.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_junit.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_junit.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_multi.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_multi.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_registrars.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_registrars.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_sonarqube.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_sonarqube.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_streaming_base.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_streaming_base.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_tap.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_tap.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_teamcity.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_teamcity.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_xml.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/catch2/reporters/catch_reporter_xml.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/catch2/internal/catch_main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/catch2/internal/catch_main.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/libCatch2.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-build/src/libCatch2Main.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/3.27.9/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/Labels.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/Labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-gitclone-lastrun.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-gitinfo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch-info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update-info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/tmp/catch2-populate-cfgcmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/tmp/catch2-populate-gitclone.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/tmp/catch2-populate-gitupdate.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/catch2-populate-prefix/tmp/catch2-populate-mkdirs.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/_deps/catch2-subbuild/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CMakeFiles/calc.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CMakeFiles/calc.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CMakeFiles/calc.dir/calc.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CMakeFiles/calc.dir/calc.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CMakeFiles/calc.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CMakeFiles/calc.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CMakeFiles/calc.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CMakeFiles/calc.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CMakeFiles/calc.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CMakeFiles/calc.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CMakeFiles/calc.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/calc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/application/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/expression-lib.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/expression-lib.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/expression-lib.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/expression-lib.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/expression-lib.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/expression-lib.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/expression-lib.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/expression-lib.dir/expression.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/expression-lib.dir/expression.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/expression-lib.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/expression-lib.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/expression-lib.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/src/expression-lib/libexpression-lib.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CMakeFiles/unit-tests.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CMakeFiles/unit-tests.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CMakeFiles/unit-tests.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CMakeFiles/unit-tests.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CMakeFiles/unit-tests.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CMakeFiles/unit-tests.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CMakeFiles/unit-tests.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CMakeFiles/unit-tests.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CMakeFiles/unit-tests.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CMakeFiles/unit-tests.dir/test-expression.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CMakeFiles/unit-tests.dir/test-expression.cpp.o.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/unit-tests" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/unit-tests_include-b12d07c.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/build/test/unit-tests_tests-b12d07c.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/cache-v2-24e66b90eeb208805192.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-e167b54fa691f554b6bd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-5bb332b952417be96290.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/directory-_deps.catch2-build-Debug-57a2e38f1b2a55b00362.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/directory-_deps.catch2-build.src-Debug-43b93d255b71d7ac2efd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/directory-src.application-Debug-a7b698a1a4164ad6df6a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/directory-src.expression-lib-Debug-5a8f890436c51378d92d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/directory-test-Debug-451c0598f41488bb20b9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/index-2023-12-18T10-29-32-0169.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-Catch2-Debug-891c53141154633bc9fa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-Catch2WithMain-Debug-1882a98bf9a10eaa02fe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-Continuous-Debug-e17cbcfe3b283c99e9bc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousBuild-Debug-3fb78593f8f015a33552.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousConfigure-Debug-f9149fc93ac327a2a98a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousCoverage-Debug-7d1a8b8574ba26f7b08f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousMemCheck-Debug-a209bc711b6af78186ba.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousStart-Debug-f50a01bb5e9bfb158be3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousSubmit-Debug-f99b71d2e76fce158297.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousTest-Debug-f722ac7f86b6bf148d10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ContinuousUpdate-Debug-1798958c41f927c1536a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-Experimental-Debug-10a83a304f9a28ce4398.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalBuild-Debug-6e355b056adcb1733f7d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalConfigure-Debug-27298996d0b54bbc6a65.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalCoverage-Debug-a56c84dc92a74e9f5cb2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalMemCheck-Debug-7aec8a8c92d62544355b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalStart-Debug-c6af9267b9f7ed431e50.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalSubmit-Debug-b9ca4aef71b9e825a15e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalTest-Debug-c10627100e7c8b081741.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-ExperimentalUpdate-Debug-531cf1c9180aaf958771.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-Nightly-Debug-608e9650552e552ad22b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-NightlyBuild-Debug-cd90cfc25663a9b43e30.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-NightlyConfigure-Debug-c029177dc837323304a4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-NightlyCoverage-Debug-22e44318e73272b60ccb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-NightlyMemCheck-Debug-282ed90128ec98b1b695.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-NightlyMemoryCheck-Debug-c31c1f2b197a4451ac63.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-NightlyStart-Debug-e07390738b88528815bc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-NightlySubmit-Debug-0bb50cf82f89555d0f9c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-NightlyTest-Debug-fc16368072f4fbd04232.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-NightlyUpdate-Debug-49c4d8a3bc8af565ded1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-calc-Debug-c6d405684be41f5ebc02.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-expression-lib-Debug-23275e6e736538597dd1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/target-unit-tests-Debug-525affc39346925ff7f2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-7096c62e23c342eb06a8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/3.27.9/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/3.27.9/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/3.27.9/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/3.27.9/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/3.27.9/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/3.27.9/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/3.27.9/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/3.27.9/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/3.27.9/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Continuous.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Continuous.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Continuous.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Continuous.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Continuous.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Continuous.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousBuild.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousBuild.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousBuild.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousBuild.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousBuild.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousBuild.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousConfigure.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousConfigure.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousConfigure.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousConfigure.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousConfigure.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousConfigure.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousCoverage.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousCoverage.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousCoverage.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousCoverage.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousCoverage.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousCoverage.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousMemCheck.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousMemCheck.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousMemCheck.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousMemCheck.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousMemCheck.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousMemCheck.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousStart.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousStart.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousStart.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousStart.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousStart.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousStart.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousSubmit.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousSubmit.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousSubmit.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousSubmit.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousSubmit.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousSubmit.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousTest.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousTest.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousTest.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousTest.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousTest.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousTest.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousUpdate.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousUpdate.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousUpdate.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousUpdate.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousUpdate.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ContinuousUpdate.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Experimental.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Experimental.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Experimental.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Experimental.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Experimental.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Experimental.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalBuild.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalBuild.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalBuild.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalBuild.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalBuild.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalBuild.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalConfigure.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalConfigure.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalConfigure.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalConfigure.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalConfigure.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalConfigure.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalCoverage.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalCoverage.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalCoverage.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalCoverage.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalCoverage.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalCoverage.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalMemCheck.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalMemCheck.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalMemCheck.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalMemCheck.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalMemCheck.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalMemCheck.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalStart.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalStart.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalStart.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalStart.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalStart.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalStart.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalSubmit.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalSubmit.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalSubmit.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalSubmit.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalSubmit.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalSubmit.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalTest.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalTest.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalTest.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalTest.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalTest.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalTest.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalUpdate.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalUpdate.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalUpdate.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalUpdate.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalUpdate.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/ExperimentalUpdate.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Nightly.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Nightly.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Nightly.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Nightly.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Nightly.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/Nightly.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyBuild.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyBuild.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyBuild.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyBuild.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyBuild.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyBuild.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyConfigure.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyConfigure.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyConfigure.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyConfigure.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyConfigure.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyConfigure.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyCoverage.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyCoverage.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyCoverage.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyCoverage.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyCoverage.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyCoverage.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyMemCheck.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyMemCheck.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyMemCheck.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyMemCheck.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyMemCheck.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyMemCheck.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyMemoryCheck.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyMemoryCheck.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyMemoryCheck.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyMemoryCheck.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyMemoryCheck.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyMemoryCheck.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyStart.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyStart.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyStart.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyStart.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyStart.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyStart.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlySubmit.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlySubmit.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlySubmit.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlySubmit.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlySubmit.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlySubmit.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyTest.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyTest.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyTest.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyTest.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyTest.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyTest.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyUpdate.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyUpdate.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyUpdate.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyUpdate.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyUpdate.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/NightlyUpdate.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/pkgRedirects/catch2-config-version.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/pkgRedirects/catch2-config.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/DartConfiguration.tcl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/Simple CMake Template.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/Catch2.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/generated-includes/catch2/catch_user_config.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/Catch2WithMain.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-build/src/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/3.27.9/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/CMakeRuleHashes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/Labels.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/Labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-done" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-gitclone-lastrun.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-gitinfo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch-info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update-info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/tmp/catch2-populate-cfgcmd.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/tmp/catch2-populate-gitclone.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/tmp/catch2-populate-gitupdate.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/catch2-populate-prefix/tmp/catch2-populate-mkdirs.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/_deps/catch2-subbuild/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/CMakeFiles/calc.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/CMakeFiles/calc.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/CMakeFiles/calc.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/CMakeFiles/calc.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/CMakeFiles/calc.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/CMakeFiles/calc.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/CMakeFiles/calc.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/CMakeFiles/calc.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/CMakeFiles/calc.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/application/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/CMakeFiles/expression-lib.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/CMakeFiles/expression-lib.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/CMakeFiles/expression-lib.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/CMakeFiles/expression-lib.dir/cmake_clean_target.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/CMakeFiles/expression-lib.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/CMakeFiles/expression-lib.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/CMakeFiles/expression-lib.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/CMakeFiles/expression-lib.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/CMakeFiles/expression-lib.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/CMakeFiles/expression-lib.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/src/expression-lib/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/CMakeFiles/unit-tests.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/CMakeFiles/unit-tests.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/CMakeFiles/unit-tests.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/CMakeFiles/unit-tests.dir/compiler_depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/CMakeFiles/unit-tests.dir/compiler_depend.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/CMakeFiles/unit-tests.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/CMakeFiles/unit-tests.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/CMakeFiles/unit-tests.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/CMakeFiles/unit-tests.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/CTestTestfile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/cmake-build-debug/test/unit-tests_include-b12d07c.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/src/application/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/src/application/calc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/src/expression-lib/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/src/expression-lib/expression.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/src/expression-lib/expression.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/test/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/test/test-expression.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hw2SDP" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MinaEvt"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="d7ada8fa-ae81-46e2-b011-f8c540bfee48" />
+        <option name="url" value="https://github.com/MinaEvt/BinaryTree.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2a7uAgNXXkrxbeORKXzlfCaPoet" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "C/C++ File.BinaryTree.cpp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/Mina/Desktop/SDP/BinaryTree/src/BinaryTree.cpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "CPPToolchains",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.BinaryTree.cpp">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Tests" type="CTestRunConfiguration" factoryName="CTestRun" nameIsGenerated="true" PROGRAM_PARAMS="--extra-verbose" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" WORKING_DIR="file://$CMakeCurrentLocalGenerationDir$" PASS_PARENT_ENVS_2="true" RUN_PATH="$CTestCurrentExecutableName$" EXPLICIT_BUILD_TARGET_NAME="all" TEST_MODE="PATTERN">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryTree.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="BinaryTree" TARGET_NAME="BinaryTree.cpp" CONFIG_NAME="BinaryTree.cpp">
+      <option name="sourceFile" value="C:\Users\Mina\Desktop\SDP\BinaryTree\src\BinaryTree.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.BinaryTree.cpp" />
+      <item itemvalue="CTest Application.All Tests" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8b78984-71ff-4dbd-9f2b-b400a373d416" name="Changes" comment="" />
+      <created>1703681796475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703681796475</updated>
+      <workItem from="1703681797599" duration="8811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

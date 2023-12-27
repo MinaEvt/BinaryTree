@@ -1,2 +1,0 @@
-/usr/bin/ar qc libsetlib.a CMakeFiles/setlib.dir/BinaryTree.cpp.o
-/usr/bin/ranlib libsetlib.a

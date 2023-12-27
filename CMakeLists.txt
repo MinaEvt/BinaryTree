@@ -109,11 +109,11 @@ endif()
 # Targets
 #
 
-# Add the src/ directory to the include path of all targets
-include_directories("src")
+# Add the BinaryTree/ directory to the include path of all targets
+include_directories("BinaryTree")
 
 # Executable and library targets
-add_subdirectory(src)
+add_subdirectory(BinaryTree)
 
 # Unit testing
 if(BUILD_TESTING)
