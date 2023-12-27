@@ -19,9 +19,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8b78984-71ff-4dbd-9f2b-b400a373d416" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/BinaryTree.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTree.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTree.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinaryTree.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test-library.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/test/test-library.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../hw1SDP/homework_2MI0400138/.idea/.name" beforeDir="false" />
@@ -1024,7 +1021,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1703681796475</updated>
-      <workItem from="1703681797599" duration="8811000" />
+      <workItem from="1703681797599" duration="9187000" />
     </task>
     <servers />
   </component>
